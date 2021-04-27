@@ -1,2 +1,1 @@
-简易实现的java贪吃蛇
-b站上也有教程
+简易实现的java贪吃蛇，tanchishe.zip下载即可
